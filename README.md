@@ -1,1 +1,1 @@
-# Patterns-in-Python
+# Pattern Programming with Python
